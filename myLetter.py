@@ -1,0 +1,16 @@
+spaces = ' '*25
+newLine = '\n'*2
+print('%s Door No.18, Kalainila, Plot No.443' % spaces)
+print('%s Roja street, Soodamanipuram' % spaces)
+print('%s Karaikudi - 630003' % spaces,newLine)
+print('Dear Sir')
+print()
+print('Congrats!!! Your Credit Card is Approved.')
+print('Kindly upload the following Documents')
+print('1.Payslip')
+print('2.Credit CardStatement')
+print('3.ID Proof')
+print('4.Address Proof')
+print()
+print('You\'s Sincerely')
+print('Team BankBazaar')
